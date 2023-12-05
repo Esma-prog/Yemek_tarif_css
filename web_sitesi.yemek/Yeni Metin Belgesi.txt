@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+        integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap" rel="stylesheet">
+
+    <title>AnaSayfa</title>
+</head>
+
+<body>
+    <div id="social">
+        <font>YEMEK TARİFLERİ | <span>Esma Gül Güvenç</span></font>
+        <i class="fas fa-search"></i>
+        <i class="fab fa-facebook"></i>
+        <i class="fab fa-instagram"></i>
+        <i class="fab fa-twitter"></i>
+        <i class="fab fa-google"></i>
+
+
+
+    </div>
+    <div id="container">
+        <header>
+            <img id="bannerweb" src="img/agabe4.jpg" alt="">
+            <div id="center"> YEMEK TARİFLERİ </div>
+        </header>
+        <section>
+            <nav>
+                <ul>
+                    <li><a href="index.html"><i class="fas fa-home"></i>AnaSayfa</a></li>
+                    <li><a href="hakkimizda.html"><i class="fas fa-users"></i>Hakkımızda</a></li>
+                     <li><a href="galeri.html"><i class="fas fa-images"></i>Galeri</a></li>
+                    <li><a href="iletisim.html"><i class="fas fa-address-book"></i>İletişim</a></li>
+                </ul>
+            </nav>
+            <main>
+                <div class="içerik">
+                    <img src="img/indir (4).jpg" alt="" class="rsm">
+                        <h5>BAŞLIK</h5>
+                        <P> Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eos dignissimos laboriosam
+                            aliquam blanditiis possimus ea, ratione explicabo commodi, maiores perferendis molestiae sed
+                            quis excepturi itaque dolore omnis? Atque, voluptas.</P>
+                            <a href="#" class="btnDevam">Devamını Oku</a>
+                </div>
+
+                <div class="içerik">
+                    <img src="img/indir (4).jpg" alt="" class="rsm">
+                        <h5>BAŞLIK</h5>
+                        <P> Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eos dignissimos laboriosam
+                            aliquam blanditiis possimus ea, ratione explicabo commodi, maiores perferendis molestiae sed
+                            quis excepturi itaque dolore omnis? Atque, voluptas.</P>
+                            <a href="#" class="btnDevam">Devamını Oku</a>
+                </div>
+                <div class="içerik">
+                    <img src="img/indir (4).jpg" alt="" class="rsm">
+                        <h5>BAŞLIK</h5>
+                        <P> Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eos dignissimos laboriosam
+                            aliquam blanditiis possimus ea, ratione explicabo commodi, maiores perferendis molestiae sed
+                            quis excepturi itaque dolore omnis? Atque, voluptas.</P>
+                            <a href="#" class="btnDevam">Devamını Oku</a>
+                </div>
+                <div class="içerik">
+                    <img src="img/indir (4).jpg" alt="" class="rsm">
+                        <h5>BAŞLIK</h5>
+                        <P> Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eos dignissimos laboriosam
+                            aliquam blanditiis possimus ea, ratione explicabo commodi, maiores perferendis molestiae sed
+                            quis excepturi itaque dolore omnis? Atque, voluptas.</P>
+                            <a href="#" class="btnDevam">Devamını Oku</a>
+                </div>
+
+
+
+
+
+            </main>
+
+        </section>
+        <footer> Tüm Hakları Saklıdır &copy; | 2021</footer>
+
+
+
+
+
+    </div>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+        integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap" rel="stylesheet">
+
+    <title>Hakkımızda</title>
+</head>
+
+<body>
+    <div id="social">
+        <font>YEMEK TARİFLERİ | <span>Esma Gül Güvenç</span></font>
+        <i class="fas fa-search"></i>
+        <i class="fab fa-facebook"></i>
+        <i class="fab fa-instagram"></i>
+        <i class="fab fa-twitter"></i>
+        <i class="fab fa-google"></i>
+
+
+
+    </div>
+    <div id="container">
+        <header>
+            <img id="bannerweb" src="img/agabe4.jpg" alt="">
+            <div id="center"> YEMEK TARİFLERİ </div>
+        </header>
+        <section>
+            <nav>
+                <ul>
+                    <li><a href="index.html"><i class="fas fa-home"></i>AnaSayfa</a></li>
+                    <li><a href="hakkimizda.html"><i class="fas fa-users"></i>Hakkımızda</a></li>
+                    <li><a href="galeri.html"><i class="fas fa-images"></i>Galeri</a></li>
+                    <li><a href="iletisim.html"><i class="fas fa-address-book"></i>İletişim</a></li>
+                </ul>
+            </nav>
+            <main>
+                <h1>Hakkımızda</h1>
+                <img id="hakkimizdaRSM" src="img/indir (4).jpg" alt="">
+                <h3> Biz Kimiz? </h3>
+                <p class="hakYazi"> Yemek tarifleri iştah açan, ilham veren, ağız sulandıran... Sadece yemek tarifleri
+                    değil... Güldürürken yediren...
+
+                    Yemek.com, sevgilisini mutlu etmek için İtalyan mutfağını öğrenenin de, işi gücü bırakıp güneyde
+                    şarap üretmeyi, en olmadı Cihangir'de pilavcı açmayı hayal edenin de, övünerek anlatabildiği tek
+                    mutfak becerisi menemen olanın da, yurt dışına her çıkışında yemek yiyeceği yerlere göre otelini
+                    seçenin de, o gün yediği dev bir sufle için bütün hafta boyunca yediklerine dikkat etme zorunluluğu
+                    hissedenin de, yemeğin tadına bakmadan tuz atanın da, Instagram'a fotoğraf atabilmek için yemeğini
+                    soğutmayı göze alanın da sitesi.
+
+                    Sadece karnını doyurmak isteyenler için değil, bir hazzın peşinde koşanlar için.
+
+                    Farklı zevklerden ve renklerden gelen iştahlı ekibi ve dışarıdan katkı sağlayan birçok dostu ve
+                    partneri ile Yemek.com kocaman, upuzun, rengarenk bir masa kurdu ve bu masada epey sandalye var.
+
+                    Bu nefis masada sizin de bir sandalyeniz var. İster yazar olarak, ister okur olarak.
+
+                    İyi ki geldiniz, yine gelin.</p>
+                <p class="hakYazi">Yemek Tarifleri 2021 yılından beri özgün içeriği ve detaylı tarif anlatımlarıyla
+                    yayınına devam etmektedir.
+
+                    İsteyen herkesin kendi yaptığı ve fotoğrafladığı tarifi gönderebileceği bir platform olan Yemek
+                    Tarifleri on binlerce yazarın katkı sağladığı dünyanın en çok takip edilen Türkçe yemek tarifi
+                    paylaşım platformudur.
+
+                    Şu anda yemektarifleri.com internet sitesi, Android, iOS, iPad ve AndroidTV uygulamalarıyla
+                    olabilecek her yerden ulaşabileceğiniz şeklide 700bin’den fazla tarifi kullanıcılarına
+                    ulaştırmaktadır.
+
+                    Yemek Tarifleri’nin en büyük farkı tamamen gerçek kullanıcılar tarafından yapılmış tariflerin
+                    yayınlanmasıdır. Böylece tarifleri yapacak kişiler gönül rahatlığıyla sitemizdeki tarifleri
+                    yapabilmekte ve başarılı sonuçlar almaktadır.
+
+                    Oluşturduğunuz tarif defterleri ile artık fiziksel defter tutmanıza gerek kalmamakta.
+
+                    Ayrıca tariflerde yorumlar, tarifi deneyen diğer kullanıcıların fotoğrafları ilgili tarifin
+                    yapıldığında neye benzeyeceği konusunda çok detaylı bir şekilde bilgi vermektedir.
+
+                    Bu platformun büyümesinde katkısı olan başta yazarlarımız olmak üzere tüm kullanıcılarımıza
+                    teşekkürler.
+
+                    Afiyet olsun :)</p>
+
+
+                <hr>
+
+                <h3>Gizlilik Politikası</h3>
+
+
+                <h3></h3>
+                <p class="hakYazi">Yemek Tarifleri’nde bulunduğunuz süre boyunca ‘cookie’ olarak da adlandırılan
+                    çerezlerin ve buna benzer unsurların bilgisayarınıza yerleştirilmesi söz konusu olabilir. Çerezler
+                    basit metin dosyalarından ibaret olup, kimlik ve sair özel bilgiler içermez, bu nevi kişisel bilgi
+                    içermemekle beraber, oturum bilgileri ve benzeri veriler saklanır ve sizi tekrar tanımak için
+                    kullanılabilir.
+
+                    Yemek Tarifleri Google Adsense yayıncısıdır. Google üçüncü taraf satıcısı olarak Yemek
+                    Tarifleri’nde reklam yayınlamak için çerezlerden yararlanır. Google dahil üçüncü taraf sağlayıcılar,
+                    kullanıcının web sitenize yaptığı önceki ziyaretlere dayalı olarak reklam yayınlamak üzere çerezleri
+                    kullanmaktadır.
+
+                    Google’ın DoubleClick çerezlerini kullanması, kendisinin ve ortaklarının kullanıcılarınıza, sitenize
+                    ve/veya İnternet’teki diğer sitelere yaptıkları ziyaretlere dayalı olarak reklam sunmasına olanak
+                    tanır.
+
+                    Kullanıcılar, reklam devre dışı bırakma sayfasını ziyaret ederek DART çerezi kullanımını devre dışı
+                    bırakabilir. (Alternatif olarak, kullanıcılar, Network Advertising Initiative (Ağ Reklamcılığı
+                    İnisiyatifi) devre dışı bırakma sayfasını ziyaret ederek bir üçüncü taraf sağlayıcının çerez
+                    kullanımını devre dışı bırakabilirler.)
+
+                   Yemek Tarifleri’ni ziyaretiniz esnasında ip adresiniz ve tarayıcınızın sağladığı sair genel
+                    veriler Yemek Tarifleri tarafından anonim olarak kaydedilmektedir.
+
+                    Yemek Tarifleri site istatistiklerinin kaydedilmesi için Google Analytics teknolojisini
+                    kullanmaktadır.
+
+                    Kullanıcıların Yemek Tarifleri sitesine yükledikleri profil fotoğrafları, kapak fotoğrafları,
+                    tarif fotoğrafları vb. bütün fotoğraf/video/görseller arama motorlarında gözükebilir.</p>
+                
+                <hr>
+
+                <h3>Vizyon & Misyon </h3>
+
+                <p class="hakYazi">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quidem molestias ex
+                    tenetur facilis
+                    sed tempore, asperiores blanditiis optio quae laudantium tempora eos quia minus accusantium saepe
+                    hic impedit corrupti!</p>
+                <p class="hakYazi">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quidem molestias ex
+                    tenetur facilis
+                    sed tempore, asperiores blanditiis optio quae laudantium tempora eos quia minus accusantium saepe
+                    hic impedit corrupti!</p>
+
+            </main>
+
+        </section>
+        <footer> Tüm Hakları Saklıdır &copy; | 2021</footer>
+
+
+        s
+
+
+    </div>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+        integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap" rel="stylesheet">
+
+    <title>Galeri</title>
+</head>
+
+<body>
+    <div id="social">
+        <font>YEMEK TARİFLERİ | <span>Esma Gül Güvenç</span></font>
+        <i class="fas fa-search"></i>
+        <i class="fab fa-facebook"></i>
+        <i class="fab fa-instagram"></i>
+        <i class="fab fa-twitter"></i>
+        <i class="fab fa-google"></i>
+
+
+
+    </div>
+    <div id="container">
+        <header>
+            <img id="bannerweb" src="img/agabe4.jpg" alt="">
+            <div id="center"> YEMEK TARİFLERİ </div>
+        </header>
+        <section>
+            <nav>
+                <ul>
+                    <li><a href="index.html"><i class="fas fa-home"></i>AnaSayfa</a></li>
+                    <li><a href="hakkimizda.html"><i class="fas fa-users"></i>Hakkımızda</a></li>
+                     <li><a href="galeri.html"><i class="fas fa-images"></i>Galeri</a></li>
+                    <li><a href="iletisim.html"><i class="fas fa-address-book"></i>İletişim</a></li>
+                </ul>
+            </nav>
+            <main>
+               
+                <h1>Galeri</h1>
+<a class:"link" href="img/galeri3 tel şehriye.jpg">
+    <img src="img/galeri3 tel şehriye.jpg" alt="" class="galResim">
+</a>
+<a class:"link" href="img/galeri4mercimek.jpg">
+    <img src="img/galeri4mercimek.jpg" alt="" class="galResim">
+</a>
+<a class:"link" href="img/galeri5yoğurt.jpg">
+    <img src="img/galeri5yoğurt.jpg" alt="" class="galResim">
+</a>
+<a  class:"link" href="img/galeri21tarhana.jpg">
+    <img src="img/galeri21tarhana.jpg" alt="" class="galResim">
+</a>
+<a class:"link" href="img/galeri6karnıyarık.jpg">
+    <img src="img/galeri6karnıyarık.jpg" alt="" class="galResim">
+</a>
+<a class:"link" href="img/galeri7nohut.jpg">
+    <img src="img/galeri7nohut.jpg" alt="" class="galResim">
+</a>
+<a class:"link"href="img/galeri8nohutlupilav.jpg">
+    <img src="img/galeri8nohutlupilav.jpg" alt="" class="galResim">
+</a>
+<a class:"link"  href="img/galeri2fellah.jpg">
+    <img src="img/galeri2fellah.jpg" alt="" class="galResim">
+</a>
+<a class:"link" href="img/galeri12salata.jpg">
+    <img src="img/galeri12salata.jpg" alt="" class="galResim">
+</a>
+<a  class:"link" href="img/galeri13mevsim salatası.jpg">
+    <img src="img/galeri13mevsim salatası.jpg" alt="" class="galResim">
+</a>
+<a  class:"link" href="img/galeri14cobansalata.jpg">
+    <img src="img/galeri14cobansalata.jpg" alt="" class="galResim">
+</a>
+<a  class:"link" href="img/galeri9sütlaç.jpg">
+    <img src="img/galeri9sütlaç.jpg" alt="" class="galResim">
+</a>
+<a class:"link"  href="img/galeri10kalburabastı.jpg">
+    <img src="img/galeri10kalburabastı.jpg" alt="" class="galResim">
+</a>
+<a class:"link" href="img/galeri15biskuvıtoop.jpg">
+    <img src="img/galeri15biskuvıtoop.jpg" alt="" class="galResim">
+</a>
+<a  class:"link" href="img/galeri16irmikhelvası.jpg">
+    <img src="img/galeri16irmikhelvası.jpg" alt="" class="galResim">
+</a>
+<a class:"link" href="img/galeri1tatlı.jpg">
+    <img src="img/galeri1tatlı.jpg" alt="" class="galResim">
+</a>
+
+
+            </main>
+
+        </section>
+        <footer> Tüm Hakları Saklıdır &copy; | 2021</footer>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+        integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap" rel="stylesheet">
+
+    <title>İletişim</title>
+</head>
+
+<body>
+    <div id="social">
+        <font>YEMEK TARİFLERİ | <span>Esma Gül Güvenç</span></font>
+        <i class="fas fa-search"></i>
+        <i class="fab fa-facebook"></i>
+        <i class="fab fa-instagram"></i>
+        <i class="fab fa-twitter"></i>
+        <i class="fab fa-google"></i>
+
+
+
+    </div>
+    <div id="container">
+        <header>
+            <img id="bannerweb" src="img/agabe4.jpg" alt="">
+            <div id="center"> YEMEK TARİFLERİ </div>
+        </header>
+        <section>
+            <nav>
+                <ul>
+                    <li><a href="index.html"><i class="fas fa-home"></i>AnaSayfa</a></li>
+                    <li><a href="hakkimizda.html"><i class="fas fa-users"></i>Hakkımızda</a></li>
+                    <li><a href="galeri.html"><i class="fas fa-images"></i>Galeri</a></li>
+                    <li><a href="iletisim.html"><i class="fas fa-address-book"></i>İletişim</a></li>
+                </ul>
+            </nav>
+            <main>
+
+                <h1>İletişim</h1>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391771.3675527135!2d32.482583983272654!3d39.903039428914916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d347d520732db1%3A0xbdc57b0c0842b8d!2sAnkara!5e0!3m2!1str!2str!4v1639693956737!5m2!1str!2str"
+                    width="" height="" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<section class="section1"> 
+
+       <div class="form">
+
+              <div class="row"> 
+
+                  <div class="col25">
+                      <label for="">Adınız</label>
+                  </div>
+                  <div class="col75">
+                      <input type="text" placeholder="Adınızı Giriniz">                    
+                  </div>
+              </div>
+              <div class="row"> 
+                <div class="col25">
+                    <label for="">Soyadınız</label>
+                </div>
+                <div class="col75">
+                    <input type="text" placeholder="Soyadınızı Giriniz">                    
+                </div>
+            </div>
+            <div class="row"> 
+                <div class="col25">
+                    <label for="">Mesajınız</label>
+                </div>
+                <div class="col75">
+                    <TEXTarea name="" id="" cols="30" 
+                    rows="10" placeholder=""Mesajınızı Giriniz></TEXTarea>                   
+                </div>
+            </div>
+            <div class="row">
+                <input type="submit" value="Gönder">
+            </div>
+       </div>
+       <div class="adres"> 
+             <h2>ADRES</h2>
+             <SPAN class="span1"> 
+                 Hacı Hüsev Mahallesi Kalkınma Sokak No:15/1 Ankara/Batıkent
+             </SPAN>
+             <SPAN class="span1"> 
+                0212 254 56 63
+    
+            </SPAN>
+            <SPAN class="span1"> 
+               yemektarifleri@yemek.com
+            </SPAN>
+            <SPAN class="span1"> 
+                wwww.yemektarifleri.com
+            </SPAN>
+       </div>
+
+</section>
+
+            </main>
+
+        </section>
+        <footer> Tüm Hakları Saklıdır &copy; | 2021</footer>
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0%;
+    background-color: #b7d7e8;
+    font-family: 'Oxygen', sans-serif;
+}
+#social{
+    background-color: #87bdd8;
+    color: rgb(255, 255, 255);
+    height: 55px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    font-size: 18px;
+    text-align: right;
+    padding: 15px;
+}
+font{
+    float: left;
+    letter-spacing: 2px;
+}
+span{
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+#social>i{
+    margin-right: 15px;
+}
+#social>i:hover{
+    opacity: 0.6;
+    
+}
+#container{
+    width: 80%;
+    margin: auto;
+    height: auto;
+}
+header{
+    width: 100%;
+    height: 300px;
+    box-shadow: 0 2px 8px 2px rgba(20, 23 , 28, .15 );
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: relative;
+    background-color: black;
+    margin-bottom: 65px;
+    
+}
+#bannerweb{
+    width: 100%;
+    height: 300px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    opacity: 0.5;
+    
+    
+}
+#center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-family: 'Teko', sans-serif;
+    font-size: 65px;
+}
+section{
+    width: 100%;
+    height: auto;
+    background-color: #f1f1f1;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0 2px 8px 2px rgba(20, 23 , 28, .15 );
+    margin-top: 15px;
+    overflow: auto;
+}
+nav{
+    width: 20%;
+    float: left;
+    margin-top: 10px;
+    height: auto;
+}
+nav ul{
+    width: auto;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+nav li{
+    list-style-type: none;
+}
+nav li a{
+    height: 50px;
+    line-height: 50px;
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid;
+    padding-left: 20px;
+    display: block;
+}
+nav li a:hover{
+    color:white;
+    background-color: rgb(187, 172, 172);
+}
+i {
+    margin-right: 10px;
+    }
+main{
+float:left;
+height:auto;
+width:80%;
+padding:10px;
+
+}
+
+.içerik{
+    width:48%;
+    height:auto;
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rgb(20, 23, 28);
+    padding:5px;
+    margin-bottom: 15px;
+}
+.rsm{
+    width:100%;
+border-top-left-radius:10px;
+border-top-right-radius:s0px;
+transition: opacity 0.7s;
+}
+.rsm:hover{
+    opacity: 0.5;
+}
+h5{
+    margin: 10px;
+    color: red;
+}
+.içerikText{
+    margin: 10px;
+    color: dimgray;
+}
+.btnDevam:link{
+    display: block;
+    width: 150px;
+    height: 45;
+    padding: 10px 20px;
+    background-color: dimgray;
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    border-radius: 10px;
+    
+}
+.btnDevam:hover{
+opacity: 0.5;
+}
+footer{
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    color: white;
+    line-height: 75px;
+    text-align: center;
+    box-shadow: 0 2px 8px 2px rgb(20, 23, 28);
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rgb(20, 23, 28);
+}
+#hakkimizdaRSM{
+    width: 350px;
+    height: 300px;
+    float: left;
+    border-radius: 10px;
+    margin: 25px;
+    margin-bottom: 10px;
+    transition: opacity 0.8;
+
+}
+#hakkimizdaRSM:hover{
+    opacity: 0.6;
+}
+.hakYazi{
+    margin-right: 15px;
+    font-size: 18px;
+    font-family: sans-serifs;
+    text-indent: 40px;
+    color: rgb(27, 25, 25);
+}
+.galResim{
+width: 22%;
+height: 200px;
+border-radius: 5px;
+opacity: 0.9;
+box-shadow: 0 2px 8px 2px rgb(20, 23, 28);
+margin: 10px;
+transition: opacity 0.8s;
+object-fit: cover;
+}
+.galResim:hover{
+    opacity: 1;
+    border: 5px solid white;
+    cursor: pointer;
+
+}
+.link:link{
+    text-decoration: none;
+}
+iframe{
+    width: 98%;
+    height: 350px;
+   border-radius: 10px;
+   margin-top: 10px;
+   box-shadow: 0 2px 8px 2px rgb(20, 23, 28);
+   margin-left: 10px;
+}
+.section1{
+    width: 98%;
+    height: auto;
+    margin: auto;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+.form{
+    width: 49%;
+    float: left;
+    height: 380px;
+    border: 1px solid #d8d8d8;
+    padding: 10px;
+    margin-right: 10px;
+}
+.col25{
+    width: 25%;
+    float: left;
+    margin-top: 6px;
+}
+.col75{
+    width: 75%;
+    float: left;
+    margin-top: 6px;
+}
+label{
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+input[type=text], textarea{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;  
+}
+.row:after{
+    content:"";
+    clear: both;
+    display: block;
+}
+.input[type=submit]{
+    background-color: #4caf50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    float: right;
+}
+.adres{
+    width: 49%;
+    float: left;
+    height: 380px;
+    border: 1px solid #d8d8d8;
+    padding: 10px;
+    margin-right: 10px;
+}
+h2{
+    text-align: center;
+}
+.span1{
+    display: block;
+    font-family: sans-serif;
+    margin: 10px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
